@@ -1,0 +1,14 @@
+PACKAGE IBDB034BC INTEL 2020.0207 66A9814125DE COMPONENTS="AdvXEl \
+	ArBBL CCompL Comp-CL Comp-DCAF Comp-FL Comp-OpenMP \
+	Comp-PointerChecker DAAL-L DbgL FCompL IClsTktL IClsValL \
+	ITrAnlL ITrAnlW ITrColL MKernL MPassL PerfAnl PerfPrimL \
+	StaticAnlL ThreadAnlGui ThreadBB" OPTIONS=SUITE ck=56 \
+	SIGN=05559654737C
+INCREMENT IBDB034BC INTEL 2020.0207 7-feb-2020 uncounted 347CA803A4CD \
+	VENDOR_STRING="SUPPORT=STU \
+	https://registrationcenter.intel.com" HOSTID=ID=00132034 \
+	PLATFORMS="i86_r i86_re it64_lr it64_re amd64_re i86_mac \
+	x64_mac" ck=96 SN=SMSA3DZ7HJTN SIGN=8B166DCCE446
+#
+# SerialNumber=S4ZD-3DZ7HJTN
+#
